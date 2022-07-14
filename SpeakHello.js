@@ -34,5 +34,3 @@
 	window.helloSpeaker = helloSpeaker;
 
 })(window);
-
-//test
